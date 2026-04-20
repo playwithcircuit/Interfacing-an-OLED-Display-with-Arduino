@@ -135,15 +135,6 @@ Once connected, you can:
 
 ---
 
-## 📈 Pro Tips
-
-* Use **I2C scanner** to confirm address (usually `0x3C`)
-* Keep wires short to avoid signal noise
-* Use SPI if your project needs fast refresh rates
-* For production, design a custom PCB for stability
-
----
-
 ## 🧪 Future Improvements
 
 * Add real-time sensor data visualization
