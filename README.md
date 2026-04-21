@@ -75,7 +75,9 @@ This allows efficient rendering of text, shapes, and images.
 
 ## 🔗 Wiring Connections
 
-### ✅ I2C Connection (Recommended for Beginners)
+### ✅ I2C Connection
+
+![I2C OLED Display Wiring](https://playwithcircuit.com/wp-content/uploads/2026/04/Wiring-I2C-OLED-Display-with-Arduino-Nano.webp)
 
 | OLED Pin | Arduino UNO/Nano |
 | -------- | ---------------- |
@@ -90,6 +92,8 @@ This allows efficient rendering of text, shapes, and images.
 ---
 
 ### ⚡ SPI Connection (Faster Communication)
+
+![SPI OLED Display Wiring](https://playwithcircuit.com/wp-content/uploads/2026/04/Wiring-SPI-OLED-Display-with-Arduino-Nano.webp)
 
 | OLED Pin | Arduino Pin |
 | -------- | ----------- |
